@@ -1,0 +1,18 @@
+.class {
+    background-color: orange;
+}
+
+.class2 {
+    font-size: x-large;
+}
+
+#oneID {
+    color: blue;
+    font-size: 35px;
+}
+
+#anotherID {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: x-large;
+}
